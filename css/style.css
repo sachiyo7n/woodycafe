@@ -107,6 +107,8 @@ input, textarea {
 }
 .gl-nav a:hover {
     color: #999999;
+    background-color: #eeeeee
+    ;
 }
 
 /*
